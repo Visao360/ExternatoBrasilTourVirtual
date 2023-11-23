@@ -38,7 +38,7 @@
  ],
  "name": "Externato Brasil",
  "display": "fullscreen",
- "start_url": "index.htm?installed=true",
  "background_color": "#F3F3F4",
- "theme_color": "#F3F3F4"
+ "theme_color": "#F3F3F4",
+ "start_url": "index.htm?installed=true"
 }
