@@ -1,4 +1,8 @@
 {
+ "name": "Externato Brasil",
+ "display": "fullscreen",
+ "background_color": "#F3F3F4",
+ "start_url": "index.htm?installed=true",
  "icons": [
   {
    "type": "image/png",
@@ -36,9 +40,5 @@
    "src": "misc/icon64.png"
   }
  ],
- "name": "Externato Brasil",
- "display": "fullscreen",
- "background_color": "#F3F3F4",
- "theme_color": "#F3F3F4",
- "start_url": "index.htm?installed=true"
+ "theme_color": "#F3F3F4"
 }
